@@ -25,7 +25,7 @@
     "@discordx/importer": "^1.2.3",
     "@nestjs/common": "^11.0.0",
     "@nestjs/core": "^11.0.0",
-    "@nestjs/platform-express": "^11.0.0",
+    "@nestjs/platform-express": "^11.1.2",
     "@nestjs/schedule": "^6.0.0",
     "@nestjs/swagger": "^11.0.0",
     "@octokit/rest": "^21.0.0",
